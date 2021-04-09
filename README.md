@@ -1,15 +1,15 @@
 # SOUNDSLIDE
 ## SoundSlide Description
 
-* This is SOUNDSLIDE, a sliding scale, non-profit music uploading platform for emerging artists. Choose how much you want to pay for a song. All purchases go into the pockets of the artist.
-
+## This is SOUNDSLIDE, a sliding scale, non-profit music uploading platform for emerging artists. Choose how much you want to pay for a song. All purchases go into the pockets of the artist.
+---
 
 ## Screenshots
 
 !["Screenshot of Song Sliding Carousel"](https://github.com/lukebergmann/midterm-buyandsell/blob/master/docs/SliderEffect.gif?raw=true)
 !["Screenshot of Hover and Song Purchase"](https://github.com/lukebergmann/midterm-buyandsell/blob/master/docs/HoverEffect.gif?raw=true)
 !["Screenshot of Song Upload from Artist Page"](https://github.com/lukebergmann/midterm-buyandsell/blob/master/docs/ArtistSongUpload.gif?raw=true)
-
+---
 
 ## Features
 
@@ -28,15 +28,15 @@
 
 ## Dependencies
 
-  body-parser ^1.19.0
-  chalk ^2.4.2
-  dotenv ^2.0.0
-  ejs 2.6.2
-  express 4.17.1
-  morgan 1.9.1
-  node-sass-middleware ^0.11.0
-  pg ^6.4.2
-  pg-native ^3.0.0
+* body-parser ^1.19.
+* chalk ^2.4.2
+* dotenv ^2.0.0
+* ejs 2.6.2
+* express 4.17.1
+* morgan 1.9.1
+* node-sass-middleware ^0.11.0
+* pg ^6.4.2
+* pg-native ^3.0.0
 
 ## Contact us! 
 * Farouk Alsajee: faroukalsajee@gmail.com
